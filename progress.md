@@ -4,4 +4,4 @@ Use this file however works for you. Jot what you finished, what you skipped, wh
 
 The evaluation at Week 9 reads this file alongside your commit history — so honest notes are more useful than ticked boxes.
 
-Started learning, got a broken link fixed. Figured out i was working in 2 different repos, fixed that as well.
+Started learning, got a broken link fixed. Figured out i was working in 2 different repos, fixed that as well. Nice start.
