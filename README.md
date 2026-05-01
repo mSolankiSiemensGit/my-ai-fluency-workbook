@@ -1,3 +1,4 @@
+This is my AI fluency workbook. I started on 1 May 2026.
 # My AI Fluency Workbook
 
 This is your personal workbook for the **Become an AI-Fluent Agile Coach** program.
